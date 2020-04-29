@@ -5,7 +5,7 @@ import time
 
 
 
-bot = telebot.TeleBot(config.TOKEN)
+bot = telebot.TeleBot('1165307703:AAFqwD_-QClixH-EbjJzuS1kIS4c4G_HyNE')
 
 
 
